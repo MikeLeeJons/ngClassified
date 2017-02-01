@@ -1,0 +1,105 @@
+[
+      {
+        "id": "1",
+        "title": "House at the beach",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "price": 6000,
+        "posted": "2016-02-06",
+        "contact": {
+            "name": "John Smith",
+            "phone": "(444) 444-333333",
+            "email": "johnsmith@mail.com"
+        },
+        "categories": [
+            "Houses",
+            "Buildings"
+        ],
+        "image": "/img/beach_house.jpg",
+        "views": 243
+    }, {
+        "id": "2",
+        "title": "Misa Amane from DeathNote",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "price": 17000,
+        "posted": "2016-08-23",
+        "contact": {
+            "name": "Misa Amane",
+            "phone": "(444) 444-668388633",
+            "email": "misamisa@mail.com"
+        },
+        "categories": [
+            "Girls",
+            "Models"
+        ],
+        "image": "/img/death_note.jpg",
+        "views": 999
+    }, {
+        "id": "3",
+        "title": "Sniper Gun + GF",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "price": 21000,
+        "posted": "2017-01-30",
+        "contact": {
+            "name": "Mike Jons",
+            "phone": "(444) 444-21212121",
+            "email": "mike.jons@mail.com"
+        },
+        "categories": [
+            "Guns",
+            "Models"
+        ],
+        "image": "/img/gun.jpg",
+        "views": 522
+    }, {
+        "id": "4",
+        "title": "Teach Hacking",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "price": 65000,
+        "posted": "2016-12-06",
+        "contact": {
+            "name": "Eliot ",
+            "phone": "(444) 444-333333",
+            "email": "mr.robot@mail.com"
+        },
+        "categories": [
+            "Teaching Courses",
+            "Hacking"
+        ],
+        "image": "/img/hacking_world.jpg",
+        "views": 953
+    }, {
+        "id": "5",
+        "title": "Genious Raven(bird)",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "price": 99000,
+        "posted": "2016-04-24",
+        "contact": {
+            "name": "Raven Sword",
+            "phone": "(444) 214-3123333",
+            "email": "birds@mail.com"
+        },
+        "categories": [
+            "Birds",
+            "Intelect"
+        ],
+        "image": "/img/raven_clever.jpg",
+        "views": 457
+    }, {
+        "id": "6",
+        "title": "Hotel in a beautifull place",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "price": 7000,
+        "posted": "2017-04-21",
+        "contact": {
+            "name": "Mike Lee",
+            "phone": "(444) 444-7788778",
+            "email": "mike.lee@mail.com"
+        },
+        "categories": [
+            "Hotels",
+            "Tours"
+        ],
+        "image": "/img/relax_place.jpg",
+        "views": 127
+    }
+]
